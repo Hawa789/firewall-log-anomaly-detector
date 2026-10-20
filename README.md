@@ -10,6 +10,8 @@ This project demonstrates a machine-learning approach to firewall log analysis. 
 
 The goal is to help security analysts identify activity that deserves attention—not to replace professional security analysis or automatically confirm that an attack has occurred.
 
+Link : https://colab.research.google.com/drive/1PjqNbinaJWzNe0cBxy0eP-qr5yMMOAaI?usp=sharing
+
 ## Key Features
 
 - Firewall log preprocessing and data quality checks.
