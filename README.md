@@ -2,6 +2,15 @@
 
 A Python machine-learning project that analyzes firewall traffic logs and identifies potentially suspicious network activity using **Isolation Forest**, feature engineering, and risk-level classification.
 
+## Project Resources
+
+### Interactive Presentation
+- [View PowerPoint Presentation](https://view.genially.com/6acaaabddab714c24c7be503)
+
+### Implementation
+- [Open Google Colab Notebook](https://colab.research.google.com/drive/1PjqNbinaJWzNe0cBxy0eP-qr5yMMOAaI?usp=sharing)
+  
+
 ## Project Overview
 
 Firewalls generate network logs that can contain normal traffic as well as potentially suspicious events. Manually reviewing large volumes of logs can make it difficult to identify unusual patterns efficiently.
